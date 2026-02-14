@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-ibrahim-09236aa0/)](https://www.linkedin.com/in/mohammed-ibrahim-09236aa0/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-MDIBRAHIM-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Ibrahim-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
